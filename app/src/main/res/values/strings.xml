@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Car parts sale</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="products">Products</string>
+    <string name="orders">Orders</string>
+    <string name="profile">Profile</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="product_name">Product name</string>
+    <string name="product_price">Product price</string>
+    <string name="add">add</string>
+    <string name="bekor_qilish">Bekor qilish</string>
+    <string name="cancel">cancel</string>
+</resources>
